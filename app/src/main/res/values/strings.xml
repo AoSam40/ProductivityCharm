@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">ProdCh</string>
+    <string name="app_name">ProductivityCharm零</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="switch_cal">cal</string>
+    <string name="switch_act">act</string>
+    <string name="switch_dia">dia</string>
+    <string name="switch_set">set</string>
 </resources>
