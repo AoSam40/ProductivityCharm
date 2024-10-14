@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">ProductivityCharm零</string>
+    <string name="CalenderActivity">Calender</string>
+    <string name="ActivitiesActivity">Activities</string>
+
     <string name="nav_open">Open</string>
     <string name="nav_close">Close</string>
-    <string name="switch_cal">cal</string>
-    <string name="switch_act">act</string>
-    <string name="switch_dia">dia</string>
-    <string name="switch_set">set</string>
+    <string name="Cal">Calender</string>
+    <string name="Act">Activities</string>
+    <string name="Dia">Diagnostics</string>
+    <string name="Set">Settings</string>
 </resources>

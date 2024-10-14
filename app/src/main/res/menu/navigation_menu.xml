@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="HardcodedText">
-    <group />
+    tools:menu="@menu/navigation_menu"
+    tools:ignore="ExtraText,HardcodedText">
+
     <item
         android:id="@+id/one"
-        android:title="Calender" />
+        android:title="@string/Cal" />
     <item
         android:id="@+id/two"
-        android:title="Activities" />
+        android:title="@string/Act" />
     <item
         android:id="@+id/three"
-        android:title="Diagnostics" />
+        android:title="@string/Dia" />
     <item
         android:id="@+id/four"
-        android:title="Settings" />
+        android:title="@string/Set" />
 </menu>
